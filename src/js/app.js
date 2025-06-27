@@ -62,7 +62,7 @@ window.onload = function() {
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
     // this is the url for the profile avatar
     avatarURL: "https://placedog.net/500/280",
-    //
+    //https://randomuser.me/api/portraits/women/42.jpg <-----esta imagen no me carga por lo tanto estoy sustituyendo
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
