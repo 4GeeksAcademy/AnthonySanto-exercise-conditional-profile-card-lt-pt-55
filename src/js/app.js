@@ -61,8 +61,7 @@ window.onload = function() {
     // this is the image's url that will be used as a background for the profile cover
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
     // this is the url for the profile avatar
-    avatarURL: "https://placedog.net/500/280",
-    //https://randomuser.me/api/portraits/women/42.jpg <-----esta imagen no me carga por lo tanto estoy sustituyendo
+    avatarURL: "https://randomuser.me/api/portraits/women/42.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
